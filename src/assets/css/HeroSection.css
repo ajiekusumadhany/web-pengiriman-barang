@@ -1,0 +1,85 @@
+.hero {
+  background-image: url("../img/bg-image-hero.svg");
+  background-size: cover;
+  background-color: rgba(1, 170, 90, 0.17);
+  position: relative;
+}
+.hero-content {
+  z-index: 1;
+  margin: 120px 0;
+  
+  h2 {
+    letter-spacing: 5%;
+    span {
+      color: #01aa5a;
+    }
+  }
+  .track-form {
+    border: none;
+    background-color: #fff;
+    border-radius: 10px;
+    max-width: 100%;
+    box-sizing: border-box;
+
+    input {
+      border: none;
+      outline: none;
+      padding: 10px 20px;
+      font-size: 18px;
+    }
+  }
+}
+
+@media (max-width: 810px) {
+  .hero-content {
+    margin: 50px 0;
+    max-width: 100%;
+    box-sizing: border-box;
+  }
+  .hero-content form {
+    input {
+      font-size: 16px;
+    }
+    button {
+      padding: 8px 16px;
+    }
+  }
+  .motor img {
+    width: 160px;
+    height: auto;
+  }
+}
+
+@media (max-width: 480px) {
+  .hero {
+    padding-bottom: 100px;
+  }
+  .hero-content {
+    margin: 50px 0;
+  }
+
+  .track-form {
+    border: none;
+    background-color: #fff;
+    border-radius: 10px;
+    width: 100%; 
+    max-width: 100%; 
+    box-sizing: border-box;
+    padding: 10px;
+    margin: 0 auto; 
+
+    input {
+      border: none;
+      outline: none;
+      padding: 10px 20px;
+      font-size: 14px;
+      width: 100%;
+      box-sizing: border-box;
+    }
+  }
+
+  .motor img {
+    width: 120px;
+    height: auto;
+  }
+}

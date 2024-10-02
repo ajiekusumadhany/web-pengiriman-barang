@@ -1,0 +1,10 @@
+.judul-deskripsi {
+  width: 20%;
+}
+
+@media (max-width: 810px) {
+    .judul-deskripsi {
+        width: 100%;
+      }
+      
+}

@@ -1,0 +1,19 @@
+/* TestimoniSection.css */
+  
+
+  /* Menambahkan jarak pada tombol kontrol carousel */
+  .carousel-control-prev,
+  .carousel-control-next {
+    top: 50%;
+    transform: translateY(-50%);
+    width: auto;
+  }
+  
+  .carousel-control-prev {
+    left: -10px; /* Atur jarak dari kiri */
+  }
+  
+  .carousel-control-next {
+    right: -10px; /* Atur jarak dari kanan */
+  }
+  

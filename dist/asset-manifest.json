@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/static/css/main.efdc8d54.css",
+    "main.js": "/static/js/main.a7d51525.js",
+    "static/js/845.4312263c.chunk.js": "/static/js/845.4312263c.chunk.js",
+    "static/media/dimas-pratama.jpg": "/static/media/dimas-pratama.f08a55004c5ac1cce69b.jpg",
+    "static/media/anita-lestari.jpg": "/static/media/anita-lestari.2fa7653c2b08ff9da46c.jpg",
+    "static/media/sari-puspita.jpg": "/static/media/sari-puspita.5fd0af75331730683196.jpg",
+    "static/media/budi-raharjo.jpg": "/static/media/budi-raharjo.94f8a5a7c24b329947d3.jpg",
+    "static/media/image-menu-order.png": "/static/media/image-menu-order.d8be373f03cd63fd3478.png",
+    "static/media/image-form-order.png": "/static/media/image-form-order.c4d5f67ebe2d9f21eaf7.png",
+    "static/media/image-form-register.png": "/static/media/image-form-register.d49bbe8e2c8d1f7f7dc7.png",
+    "static/media/image-form-login.png": "/static/media/image-form-login.c5d2e9ffa8334e36b1a8.png",
+    "static/media/motor1-hero.svg": "/static/media/motor1-hero.71001d2bec7159144dfa7941c452b4d5.svg",
+    "static/media/motor2-hero.svg": "/static/media/motor2-hero.811e736d1cd25b2e9283003f326c7237.svg",
+    "static/media/image-button-order.png": "/static/media/image-button-order.e1700e4323a821cf8681.png",
+    "static/media/bg-image-hero.svg": "/static/media/bg-image-hero.81718d6aa059555d3edb.svg",
+    "static/media/image-register.png": "/static/media/image-register.4a8a1db09b16a7bbd72f.png",
+    "static/media/image-tracking.png": "/static/media/image-tracking.c450bb0fd97953ba9354.png",
+    "static/media/image-login.png": "/static/media/image-login.709bd1115ee105f235bd.png",
+    "static/media/image-call-center.png": "/static/media/image-call-center.f1bd99c858071df5bfa7.png",
+    "static/media/image-shipping-rates.svg": "/static/media/image-shipping-rates.1b67bad2f96fe776e112dc05b2a91c38.svg",
+    "static/media/image-about.svg": "/static/media/image-about.09473b5ac2c4e344fb18baf156674546.svg",
+    "static/media/image-benefit.svg": "/static/media/image-benefit.c73bff6755495fb13e47c78606b9a423.svg",
+    "static/media/revicons.eot": "/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/index.html",
+    "main.efdc8d54.css.map": "/static/css/main.efdc8d54.css.map",
+    "main.a7d51525.js.map": "/static/js/main.a7d51525.js.map",
+    "845.4312263c.chunk.js.map": "/static/js/845.4312263c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.efdc8d54.css",
+    "static/js/main.a7d51525.js"
+  ]
+}

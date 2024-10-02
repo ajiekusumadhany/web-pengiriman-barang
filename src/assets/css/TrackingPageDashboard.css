@@ -1,0 +1,23 @@
+.status-delivered {
+  background-color: #c2ebd7;
+  color: #01aa5a;
+  border: 0.5px solid #c2ebd7;
+  border-radius: 5px;
+  padding: 6px 8px ;
+}
+
+.status-pending {
+  background-color: #fef5c5;
+  color: #bfa832;
+  border: 0.5px solid #fef5c5;
+  border-radius: 5px;
+  padding: 6px 12px;
+}
+
+.status-shipping {
+  background-color: #d0f6fe;
+  color: #3bd8fa;
+  border: 0.5px solid #d0f6fe;
+  border-radius: 5px;
+  padding: 6px 10px;
+}

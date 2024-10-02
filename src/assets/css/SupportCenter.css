@@ -1,0 +1,16 @@
+.title-support{
+font-size: 32px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 10px;
+}
+.image-container { 
+    margin-top: 10px;
+    margin-bottom: 30px;
+}  
+  @media (min-width: 768px) {
+    .image-container img {
+      max-width: 50%; 
+    }
+  }
+  

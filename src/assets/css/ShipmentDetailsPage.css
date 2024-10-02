@@ -1,0 +1,70 @@
+.shipment-title {
+    font-size: 24px;
+    font-weight: bold;
+    padding: 30px;
+    text-align: center;
+}
+
+.shipment-card-body {
+    padding: 50px;
+    margin-bottom: 50px;
+    @media (max-width: 576px) {
+        padding: 20px;
+    }
+}
+
+.card-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    margin: 0px 30px;
+    border: none;
+    border-radius: 10px;
+}
+
+.tracking-item {
+    position: relative;
+    padding-left: 40px;
+    @media (max-width: 576px) {
+        padding-left: 20px;
+    }
+}
+
+.tracking-item .tracking-circle {
+    width: 8px;
+    height: 8px;
+    position: relative;
+    margin-left: 30px;
+    background-color: black;
+    @media (max-width: 576px) {
+        margin-left: 10px;
+    }
+}
+
+.tracking-circle-status {
+    width: 20px;
+    height: 20px;
+    position: relative;
+    left: 28px;
+    background-color: #01AA5A;
+    box-shadow: 5px 3px 3px #D9D9D9;
+
+    @media (max-width: 576px) {
+        left: 6px;
+    }
+}
+
+.tracking-status {
+    margin-left: 30px;
+    margin-top: 8px;
+    @media (max-width: 576px) {
+        margin-left: 10px;
+    }
+}
+
+.time, .date {
+    font-size: 14px;
+    color: #6c757d;
+}
+

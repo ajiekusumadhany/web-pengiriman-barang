@@ -1,0 +1,48 @@
+.table-order{
+    font-size: 14px;
+    text-align: center;
+    vertical-align: middle;
+    th{
+        vertical-align: middle;
+        color: white;
+        background-color: #01AA5A;
+    }
+}
+.orderlist-title{
+    font-size: 24px;
+    font-weight: bold;
+    margin: 20px;
+}
+.btn-delivered{
+    background-color: #C2EBD7;
+    color: #01AA5A;
+    border: 0.5px solid #C2EBD7;
+    border-radius: 5px;
+    padding: 6px 5px;
+    
+    &:hover{
+        background-color: white;
+    }
+}
+.btn-pending{
+    background-color: #FEF5C5;
+    color: #BFA832;
+    border: 0.5px solid #FEF5C5;
+    border-radius: 5px;
+    padding: 6px 5px;
+    
+    &:hover{
+        background-color: white;
+    }
+}
+.btn-shipment{
+    background-color: #D0F6FE;
+    color: #3BD8FA;
+    border: 0.5px solid #D0F6FE;
+    border-radius: 5px;
+    padding: 6px 5px;
+    
+    &:hover{
+        background-color: white;
+    }
+}

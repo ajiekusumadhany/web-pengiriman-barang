@@ -1,0 +1,20 @@
+.about {
+  background-color: rgba(1, 170, 90, 0.17);
+  box-sizing: border-box;
+}
+
+.content-about h2 span {
+  color: #01aa5a;
+}
+.content-container{
+    width: 80%;
+}
+.image-about img {
+width: 350px;
+}
+
+@media (max-width: 810px) {
+  .image-about img {
+    width: 350px;
+  }
+}

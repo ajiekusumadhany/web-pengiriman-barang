@@ -1,0 +1,16 @@
+.header-service h2 span{
+    color: #01aa5a;
+}
+.card-service{
+    width: 300px;
+    background-color: #fff;
+    padding: 15px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.25);
+}
+.icon-service{
+    background-color: #01aa5a;
+    width: 50px;
+}
+.description-service{
+    margin-top: -20px;
+}

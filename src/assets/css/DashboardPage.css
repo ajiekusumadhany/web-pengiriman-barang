@@ -1,0 +1,25 @@
+.welcome-dashboard{
+    font-size: 36px;
+    font-weight: 400;
+    text-align: right;
+}
+.card1{
+    height: 200px;
+}
+.table-dashboard{
+    th{
+        background-color: #01AA5A;
+        color: white;
+    }
+    
+}
+.see-detail-order{
+    width: 30%;
+  }
+
+
+@media (max-width: 810px) {
+  .see-detail-order{
+    width: 40%;
+  }
+}

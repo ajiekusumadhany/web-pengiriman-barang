@@ -1,0 +1,10 @@
+a{
+    text-decoration: none;
+    color: black;
+}
+.title-call{
+    font-size: 32px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 10px;
+}
